@@ -101,6 +101,6 @@ Este projeto foi desenvolvido durante o **Bootcamp Bradesco**, um programa de ca
 
 Desenvolvido por **[Victor Gabriel Hass]**  
 GitHub: [VictorGHss](https://github.com/VictorGHss)  
-LinkedIn: [seu-perfil-linkedin](https://www.linkedin.com/in/victor-gabriel-hass-05a291336/)  
+LinkedIn: [Victor Gabriel Hass](https://www.linkedin.com/in/victor-gabriel-hass-05a291336/)  
 
 ---
