@@ -80,7 +80,7 @@ Siga os passos abaixo para compilar e executar o programa no terminal:
 
 Ao executar o programa, você verá algo semelhante ao exemplo abaixo:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/d4f8ec18-b64c-4b97-b539-ebbf47aae280)
 
 ## 🎓 Bootcamp Bradesco - DIO
 
