@@ -40,7 +40,6 @@ O sistema permite ao usuário criar uma conta bancária fornecendo informações
 
 - **Linguagem**: Java 21
 - **Ambiente de Execução**: Terminal (CMD)
-- **Plataforma**: [DIO (Digital Innovation One)](https://www.dio.me/)
 - **Ferramentas**:
   - JDK 21
   - IntelliJ Ultimate
