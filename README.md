@@ -4,11 +4,11 @@
 [![DIO](https://img.shields.io/badge/DIO-Digital_Innovation_One-purple)](https://www.dio.me/)  
 [![Bootcamp Bradesco](https://img.shields.io/badge/Bootcamp-Bradesco-yellow)](https://www.dio.me/)
 
-Este é um projeto simples de um **Sistema Bancário Terminal**, desenvolvido como parte do **Bootcamp Bradesco** na plataforma [DIO (Digital Innovation One)](https://www.dio.me/). O objetivo é simular a criação de uma conta bancária e realizar operações básicas, como depósito, utilizando o terminal CMD.
+Este é um código de um **Sistema Bancário Terminal**, desenvolvido como parte do **Bootcamp Bradesco** na plataforma [DIO (Digital Innovation One)](https://www.dio.me/). O objetivo é simular a criação de uma conta bancária e realizar operações básicas, como depósito, utilizando o terminal CMD.
 
 ---
 
-## 📋 Sobre o Projeto
+## 📋 Sobre o código
 
 O projeto foi desenvolvido durante o **Bootcamp Bradesco** oferecido pela DIO, com foco em introduzir conceitos fundamentais de programação Java, como:
 
@@ -81,10 +81,6 @@ Siga os passos abaixo para compilar e executar o programa no terminal:
 Ao executar o programa, você verá algo semelhante ao exemplo abaixo:
 
 ![image](https://github.com/user-attachments/assets/d4f8ec18-b64c-4b97-b539-ebbf47aae280)
-
-## 🎓 Bootcamp Bradesco - DIO
-
-Este projeto foi desenvolvido durante o **Bootcamp Bradesco**, um programa de capacitação oferecido pela [DIO](https://www.dio.me/) em parceria com o **Bradesco**. O bootcamp tem como objetivo ensinar conceitos de programação e tecnologia, com foco em Java.
 
 ### O Que Aprendi?
 
